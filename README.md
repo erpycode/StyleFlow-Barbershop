@@ -63,7 +63,7 @@ By default, this project uses `LocalStorage`. If you wish to connect it to a rea
 
 ---
 Crafted with ❤️ by @ErPyCode
-<a href="https://github.com/ErPyCode">GitHub</a> | <a href="https://t.me/ErPyCode">Telegram</a> | <a href="mailto:ErPyCode@gmail.com">Email</a>
+<a href="https://github.com/ErPyCode">GitHub</a> | <a href="https://t.me/ErPyCode">Telegram</a> | <a href="mailto:ErPyCode@hotmail.com">Email</a>
 
 
 ## 👤 Admin Access
